@@ -89,7 +89,7 @@ Instead of external logic, system behavior is fully driven by **instruction desi
 
 The system operates through a hidden structured progression:
 
-### 1. YO — Self-awareness layer  
+### 1. I — Self-awareness layer  
 Exploration of user emotions, needs, and personal context.
 
 ### 2. YOU — Perspective shift layer  
@@ -128,6 +128,8 @@ Key capabilities include:
   - Adolescent communication challenges  
   - Emotional distress contexts  
   - Potential domestic conflict situations  
+![  Prompt_injection](Prompt_injection.png)
+
 
 The system is designed to:
 
