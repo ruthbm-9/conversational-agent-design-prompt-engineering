@@ -15,6 +15,7 @@ The system is implemented entirely through **instruction-based design in Large L
 
 Rather than functioning as a chatbot, Kuperita is designed as a **behaviorally constrained conversational agent** that supports users in applying and practicing a structured methodology in real-life contexts over time.
 
+![Introduce](Introduce.png)
 ---
 
 ## Problem Statement
@@ -69,7 +70,7 @@ All system behavior is defined exclusively through **prompt architecture and ins
 
 ## System Architecture (Prompt-Based Behavioral Design)
 
-![Flowchart](flowchart.png)
+![Flowchart](Flowchart.png)
 
 The system is implemented as a **behavioral architecture encoded in prompts**, where the LLM is guided through structured instruction layers defining:
 
